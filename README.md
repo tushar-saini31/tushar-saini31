@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m Tushar Saini, a final-year B.Tech Computer Science student with industry experience at Tata Consultancy Services (TCS). I’m passionate about building efficient, scalable software, with Java as my primary language and working knowledge of C, C++ and JavaScript. I build full-stack applications with React.js, Node.js, Express.js and SQL, and I’ve worked with AWS services like EC2 and IAM. With 500+ problems solved on LeetCode and other platforms, I enjoy problem solving, learning new technologies and collaborating on real-world projects.I am always eager to learn, collaborate on interesting projects, and explore opportunities to grow as a software developer.
+👋 Hi, I’m Tushar Saini, an Assistant System Engineer at Tata Consultancy Services (TCS).
+
+I mainly work in Java, building backend systems and solving algorithmic problems, and I also use C, C++ and JavaScript. I build full-stack apps with React.js, Node.js, Express.js and SQL, and I’ve worked with AWS (EC2, IAM). I’ve solved 500+ problems on LeetCode and other platforms.
+
+I’m always learning and open to collaborating on interesting projects.
 
 
 ## 🌐 Socials:
